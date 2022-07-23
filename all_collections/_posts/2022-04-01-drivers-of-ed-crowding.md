@@ -2,9 +2,8 @@
 layout: post 
 title: Drivers of Emergency Department Crowding
 date: 2022-04-01
-categories: ["R (programming)"]
+categories: ["R","projects"]
 ---
-# 2022-04-01-drivers-of-ed-crowding
 
 # Drivers of Emergency Department Crowding
 [Github](https://github.com/nhsengland/ESA_ED_Crowding)

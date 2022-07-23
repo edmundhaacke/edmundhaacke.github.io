@@ -4,7 +4,6 @@ title: Avoidable Emergency Department attendances
 date: 2022-06-01
 categories: ["R","C++","projects"]
 ---
-# 2022-06-01-avoidable-ed-attendances
 
 # Avoidable Emergency Department Attendances
 
