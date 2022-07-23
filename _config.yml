@@ -1,12 +1,10 @@
-title: Jekyll Serial Programmer
+title: Edmund Haacke
 markdown: kramdown
-url: ""
-baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Edmund Haacke
+  email: edmundhaacke@icloud.com
 
 plugins:
   - jemoji
